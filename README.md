@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Ojha</h1>
 <h3 align="center">A passionate iot project developer, from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi-2707&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi-2707" /> </p>
 
