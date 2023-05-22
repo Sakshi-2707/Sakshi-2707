@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sakshi Ojha</h1>
 <h3 align="center">A passionate iot project developer from India</h3>
 
+<img align="right",alt="coding" width="400" src="![image](https://github.com/Sakshi-2707/Sakshi-2707/assets/127045654/225aa0c6-c834-45ae-9825-c01a6e4a8a5f)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi-2707&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi-2707" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi-2707" alt="sakshi-2707" /></a> </p>
