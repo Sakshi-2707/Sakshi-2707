@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sakshi-2707/Sakshi-2707/blob/main/github-banner.jpg)
 <h1 align="center">Hi 👋, I'm Sakshi Ojha</h1>
-<h3 align="center">A passionate iot project developer from India</h3>
+<h3 align="center">A passionate Iot project developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2019/07/creative.gif">
 
