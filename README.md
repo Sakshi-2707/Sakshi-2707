@@ -3,9 +3,8 @@
 <h3 align="center">A passionate iot project developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2019/07/creative.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi-2707&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi-2707" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi-2707" alt="sakshi-2707" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi-2707&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi-2707" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sakshi_ojha27" target="blank"><img src="https://img.shields.io/twitter/follow/sakshi_ojha27?logo=twitter&style=for-the-badge" alt="sakshi_ojha27" /></a> </p>
 
