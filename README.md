@@ -1,3 +1,4 @@
+![logo](https://github.com/Sakshi-2707/Sakshi-2707/blob/main/github-banner.jpg)
 <h1 align="center">Hi 👋, I'm Sakshi Ojha</h1>
 <h3 align="center">A passionate iot project developer from India</h3>
 
