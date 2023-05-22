@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Ojha</h1>
-<h3 align="center">A passionate iot project developer, from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<h3 align="center">A passionate iot project developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi-2707&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi-2707" /> </p>
 
@@ -9,11 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/sakshi_ojha27" target="blank"><img src="https://img.shields.io/twitter/follow/sakshi_ojha27?logo=twitter&style=for-the-badge" alt="sakshi_ojha27" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/Sakshi-2707/Smart-Dustbin-Using-Ardinuo](https://github.com/Sakshi-2707/Smart-Dustbin-Using-Ardinuo)
+
+- 📫 How to reach me **sakshiojha2707@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sakshi_ojha27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshi_ojha27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sakshi-ojha27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-ojha27" height="30" width="40" /></a>
 <a href="https://instagram.com/_._.sakshi_ojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.sakshi_ojha" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sakshiojha2707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sakshiojha2707" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
