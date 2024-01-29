@@ -14,8 +14,8 @@
 
 - 📫 How to reach me **sakshiojha2707@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11H5UJAkqas_D6mqXbv1AqVi8EgbBCEfS/view?usp=drivesdk](https://drive.google.com/file/d/11H5UJAkqas_D6mqXbv1AqVi8EgbBCEfS/view?usp=drivesdk)
-
+- 📄 Know about my experiences [[https://drive.google.com/file/d/11H5UJAkqas_D6mqXbv1AqVi8EgbBCEfS/view?usp=drivesdk](https://drive.google.com/file/d/11H5UJAkqas_D6mqXbv1AqVi8EgbBCEfS/view?usp=drivesdk)
+](https://drive.google.com/file/d/1Cs6f7yN4xJoMn9p2FBc8Q3mrFFgpbapr/view?usp=sharing)
 - ⚡ Fun fact **I have a good sense of humour,can discuss your secrets with me beacuse at the end I forgets everything😂**
 
 <h3 align="left">Connect with me:</h3>
